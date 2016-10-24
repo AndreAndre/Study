@@ -2,9 +2,7 @@ package pack1;
 
 /**ghjjhg
  * jhgj
- вапвапвап
- вапвапв
- вапвап
+ vot che pomenyal
  * Created by Andre on 24.10.2016.
  */
 public class Solution {
