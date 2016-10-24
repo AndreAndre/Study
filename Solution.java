@@ -11,8 +11,6 @@ public class Solution {
 
         System.out.println(a + b);
 
-        System.out.println("suk");
-
         System.out.println("SUK, blya");
     }
 
