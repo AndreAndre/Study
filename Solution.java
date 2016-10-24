@@ -12,6 +12,9 @@ public class Solution {
         System.out.println(a + b);
 
         System.out.println("SUK, blya");
+
+        int c = a + b;
+
     }
 
 }
