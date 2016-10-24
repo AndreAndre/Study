@@ -13,7 +13,6 @@ public class Solution {
 
         System.out.println("SUK, blya");
 
-        int c = a + b;
 
     }
 
